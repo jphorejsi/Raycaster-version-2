@@ -1,4 +1,4 @@
-directory for glm.hpp needs to be set for each user, line 9 of raycast.cc.
+directory for glm.hpp needs to installed to this folder and be set for each user, line 9 of raycast.cc.
 
 code works with earlier versions of input files, I made it so if only 3 colors are read in from materials they act as rgb and don't get effected by lights.
 
